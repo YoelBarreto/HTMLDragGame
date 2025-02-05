@@ -18,10 +18,20 @@ Si al rellenar las 4 casillas no se avanza de nivel es porque es erroneo el orde
 
 La version de Unity utilizada en este juego es la **2022.3.55f1**
 El juego esta preparado para usarlo en el navegador localmente
+El juego no estaria preparado para ejecutarlo fuera de Unity
 
+Se debe de importal el Asset del juego a un proyecto en la version mencionada de Unity.
+Es necesario tener instalado WebGL en donde se instala en: File>BuildSettings>WebGL>Install with UnityHub
+Una vez ya instalado es ir a la misma ruta pero esta vez es darle a "Build and run" (Debes de guardarlo en una carpeta)
 
 ## Juego
 
-LEVEL 1
+- 3 niveles programados
+- 3 ventanas
+  (Start, next level, Final)
+- 5 scripts
+- 3 img de los backgrounds (+Material)
+
+LEVEL 1 (example)
 ![image](https://github.com/user-attachments/assets/82ba2cc8-06d1-4ffd-889c-22841f856ef6)
 
