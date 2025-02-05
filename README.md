@@ -18,3 +18,10 @@ Si al rellenar las 4 casillas no se avanza de nivel es porque es erroneo el orde
 
 La version de Unity utilizada en este juego es la **2022.3.55f1**
 El juego esta preparado para usarlo en el navegador localmente
+
+
+## Juego
+
+LEVEL 1
+![image](https://github.com/user-attachments/assets/82ba2cc8-06d1-4ffd-889c-22841f856ef6)
+
